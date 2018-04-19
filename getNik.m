@@ -1,3 +1,5 @@
+% Author: Cristina Gil Avila, 2018
+
 % b: In Brainstorm export to Matlab (cortex of ~15000 vertices)
 
 Atlas = {b.Atlas.Name}';

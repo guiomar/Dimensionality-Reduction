@@ -8,7 +8,8 @@ function Labels = tess_group_binary (VertConn)
 %
 % OUTPUT: Labels = name of the cluster each vertice belong to
 % 
-% Guiomar Niso, 2014
+% Author: Guiomar Niso, 2014
+
 
 nVertices = size(VertConn,1);
 Labels = zeros (1,nVertices);

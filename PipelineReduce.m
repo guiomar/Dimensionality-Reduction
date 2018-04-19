@@ -11,6 +11,8 @@
 % 7) ROC curve
 % 
 % Author: Guimar Niso, 2014
+% Author: Cristina Gil Avila, 2018
+
 
 
 clc; clear; close all
